@@ -1,4 +1,3 @@
-```python
 import random
 import os
 import time
@@ -194,4 +193,4 @@ while True:
         print(Fore.RED + "\nThanks For Playing ❤️")
         print(Fore.RED + f"Author : {AUTHOR}\n")
         break
-```
+
